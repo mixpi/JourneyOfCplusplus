@@ -7,3 +7,5 @@
 ### 库函数
 ### 编译
 ### 代码规范
+### 参考资料
+* [c++优先队列(priority_queue)用法详解](https://www.cnblogs.com/huashanqingzhu/p/11040390.html)
