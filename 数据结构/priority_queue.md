@@ -11,7 +11,7 @@
 * emplace 原地构造一个元素并插入队列
 * pop弹出队头元素
 * swap交换内容
-**定义：**priority_queue<Type, Container, Functional>
+**定义：**priority_queue<Type, Container, Functional> pq;
 * Type数据类型
 * Container容器类型(必须是数组实现的容器，默认是vector)
 * Functional比较方式

@@ -4,6 +4,7 @@
 ## 目录
 ### 数据结构
 * [priority_queue](https://github.com/mixpi/JourneyOfCplusplus/blob/main/数据结构/priority_queue.md)
+* [vector](https://github.com/mixpi/JourneyOfCplusplus/blob/main/数据结构/vector.md)
 ### 库函数
 ### 编译
 ### 代码规范
