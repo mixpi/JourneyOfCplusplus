@@ -5,8 +5,11 @@
 ### 数据结构
 * [priority_queue](https://github.com/mixpi/JourneyOfCplusplus/blob/main/数据结构/priority_queue.md)
 * [vector](https://github.com/mixpi/JourneyOfCplusplus/blob/main/数据结构/vector.md)
+* [map](https://github.com/mixpi/JourneyOfCplusplus/blob/main/数据结构/map.md)
+*[unordered_map](https://github.com/mixpi/JourneyOfCplusplus/blob/main/数据结构/unordered_map.md)
 ### 库函数
 ### 编译
 ### 代码规范
 ### 参考资料
 * [c++优先队列(priority_queue)用法详解](https://www.cnblogs.com/huashanqingzhu/p/11040390.html)
+* [C++ map用法总结（整理）](https://blog.csdn.net/u010029439/article/details/89681773)
